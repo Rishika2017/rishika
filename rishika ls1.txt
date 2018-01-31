@@ -1,0 +1,5 @@
+1. adding of two numbers
+2. subtraction of two numbers
+3. typecasting to get addition of two numbers with input functions
+4. printing of name
+5. to create dictionary using ubuntu terminal
